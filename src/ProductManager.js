@@ -1,3 +1,3 @@
-class ProductManager {}
+// class ProductManager {}
 
-export { ProductManager }; // import { ProductManager } from src/ProductManager.js
+// export { ProductManager }; // import { ProductManager } from src/ProductManager.js
