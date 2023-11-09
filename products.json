@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 11",
+        "price": 699,
+        "image": "imgs/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 11 PRO MAX",
+        "price": 1099,
+        "image": "imgs/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13",
+        "price": 699,
+        "image": "imgs/3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Samsung S21",
+        "price": 650,
+        "image": "imgs/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Samsung S22",
+        "price": 699,
+        "image": "imgs/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Samsung S23 5G",
+        "price": 799,
+        "image": "imgs/6.jpg"
+    }
+]
