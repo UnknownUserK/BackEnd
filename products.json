@@ -2,20 +2,17 @@
     {
         "id": 1,
         "name": "Iphone 11",
-        "price": 699,
-        "image": "imgs/1.jpg"
+        "price": 699
     },
     {
         "id": 2,
         "name": "Iphone 13",
-        "price": 699,
-        "image": "imgs/3.jpg"
+        "price": 699
     }
     ,
     {
         "id": 3,
         "name": "Samsung S22",
-        "price": 699,
-        "image": "imgs/5.jpg"
+        "price": 699
     }
 ]
